@@ -1,0 +1,50 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+
+.discover h1{
+  font-family:Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.discover a{
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.travel h1{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.travel p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.mobile h1{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+.mobile a{
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
+footer{
+  text-align: right;
+  color: Gray;
+  font-size: 20px;
+}
